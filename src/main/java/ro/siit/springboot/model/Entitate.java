@@ -1,6 +1,6 @@
 package ro.siit.springboot.model;
 
-public class Entity {
+public class Entitate {
     private String name;
 
     public String getName() {
